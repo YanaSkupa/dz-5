@@ -17,5 +17,3 @@ public class dz-5{
         System.out.println((sum1 % 2 == 0) || (sum2 % 2 == 0));
     }
 }
-}
-}
